@@ -1,5 +1,5 @@
 {
-    "name": "blumanski/bang_error",
+    "name": "blumanski/bang_backend_error",
     "description": "Error module for Bang Framework - Backend",
     "type": "library",
     "license": "MIT",
